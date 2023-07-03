@@ -1,0 +1,23 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+#bg-nav-login{
+    background-color: #0d6efd;
+    color: white;
+}
+
+#bg-body-login{
+    background-color: #0d6efd;
+
+}
+
+#btn-login{
+    width: 200px;
+    font-size: 18px;
+}
